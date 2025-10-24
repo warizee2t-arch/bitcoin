@@ -1,0 +1,7 @@
+# Devnet settings for clarinet-bitcoin
+
+[network]
+name = "devnet"
+
+[accounts.deployer]
+mnemonic = "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"

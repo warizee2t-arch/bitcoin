@@ -1,0 +1,11 @@
+[project]
+name = "bitcoin"
+clarity_version = 1
+
+[contracts.btc-registry]
+path = "contracts/btc-registry.clar"
+depends_on = []
+
+[contracts.wbtc]
+path = "contracts/wbtc.clar"
+depends_on = []
