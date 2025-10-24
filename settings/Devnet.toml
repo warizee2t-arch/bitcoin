@@ -1,0 +1,8 @@
+# Clarinet Devnet settings
+# Minimal devnet configuration
+
+[network]
+name = "devnet"
+
+[accounts.deployer]
+mnemonic = "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"

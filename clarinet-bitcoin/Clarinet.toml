@@ -1,0 +1,13 @@
+[project]
+name = "clarinet-bitcoin"
+description = "Sample Clarity smart contract project"
+telemetry = false
+
+[contracts.bitcoin]
+path = "contracts/bitcoin.clar"
+clarity_version = 2
+epoch = 2.5
+
+[repl]
+costs_version = 2
+parser_version = 2
